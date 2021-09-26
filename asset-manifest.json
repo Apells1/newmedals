@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Apells1/newmedals/static/css/main.13f7edfe.chunk.css",
+    "main.js": "/Apells1/newmedals/static/js/main.b0456274.chunk.js",
+    "main.js.map": "/Apells1/newmedals/static/js/main.b0456274.chunk.js.map",
+    "runtime-main.js": "/Apells1/newmedals/static/js/runtime-main.675a1689.js",
+    "runtime-main.js.map": "/Apells1/newmedals/static/js/runtime-main.675a1689.js.map",
+    "static/js/2.42e38bff.chunk.js": "/Apells1/newmedals/static/js/2.42e38bff.chunk.js",
+    "static/js/2.42e38bff.chunk.js.map": "/Apells1/newmedals/static/js/2.42e38bff.chunk.js.map",
+    "static/js/3.83981235.chunk.js": "/Apells1/newmedals/static/js/3.83981235.chunk.js",
+    "static/js/3.83981235.chunk.js.map": "/Apells1/newmedals/static/js/3.83981235.chunk.js.map",
+    "index.html": "/Apells1/newmedals/index.html",
+    "static/css/main.13f7edfe.chunk.css.map": "/Apells1/newmedals/static/css/main.13f7edfe.chunk.css.map",
+    "static/js/2.42e38bff.chunk.js.LICENSE.txt": "/Apells1/newmedals/static/js/2.42e38bff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.675a1689.js",
+    "static/js/2.42e38bff.chunk.js",
+    "static/css/main.13f7edfe.chunk.css",
+    "static/js/main.b0456274.chunk.js"
+  ]
+}
